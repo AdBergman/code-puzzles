@@ -1,4 +1,4 @@
-package fizzbuzz;
+package hackerrank;
 
 /**
  * Write a short program that prints each number from 1 to 100 on a new line.
